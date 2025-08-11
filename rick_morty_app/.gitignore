@@ -12,6 +12,29 @@
 .swiftpm/
 migrate_working_dir/
 
+
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+
+# iOS
+ios/Pods/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+
+# Android
+.android/
+.gradle/
+local.properties
+
+# Editor folders
+.idea/
+.vscode/
+
+
 # IntelliJ related
 *.iml
 *.ipr
